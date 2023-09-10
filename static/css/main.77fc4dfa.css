@@ -1,0 +1,2 @@
+.products{grid-gap:20px;display:grid;gap:20px;grid-template-columns:1fr 1fr 1fr;margin:20px;padding:0}.productit{background-color:gray;border-radius:5px;cursor:pointer;height:200px;padding:20px;text-align:center}.productit>img{height:95%;object-fit:cover;width:100%}.pagination{align-items:center;display:flex;justify-content:center;margin:20px}.pagination>span{border:1px solid;cursor:pointer;padding:20px}.pagination-selected{background-color:gray}.nextbtn-disable,.prvbtn-disable{opacity:0}
+/*# sourceMappingURL=main.77fc4dfa.css.map*/
